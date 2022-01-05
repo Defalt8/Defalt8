@@ -6,3 +6,13 @@
 
 The axl.* libraries have a common pattern and can be used together. 
 axl is short for accelerated.
+
+- Stable repos ready for release
+  - [axl.cm](https://github.com/Defalt8/axl.cm) -- common system functionalities like thread, file, time...
+  - [axl.math](https://github.com/Defalt8/axl.math) -- maths: basic, vecs, mats, transforms, cameras...
+  - [axl.glfl](https://github.com/Defalt8/axl.glfl) -- OpenGL dynamic function loader organized by namespaces
+
+- Unstable repos
+  - [axl.ds](https://github.com/Defalt8/axl.ds) -- data structures and algorithms. [ major changes coming soon ]
+  - [axl.ge](https://github.com/Defalt8/axl.ge) -- base library for windowing and gui using opengl. [ major changes coming soon ]
+  - [axl.media](https://github.com/Defalt8/axl.media) -- media loading/saving; bitmap, png, wav, ttf [ some features awaiting revision and completion ]
