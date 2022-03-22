@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nati, AKA defaltAxel. \[Doomer turning into a Bloomer\]
+- 👋 Hi, I’m Nati, AKA defaltAxel 🧿. \[Doomer turning into a Bloomer\]
 - 👀 I’m interested in C++ game engines and libraries.
 - 🌱 I’m currently learning game and game-engine development.
 - 💞️ I’m looking to collaborate on game and game-engine development projects.
