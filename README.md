@@ -6,7 +6,7 @@ You can check out these repos:
 
 - [axl](https://github.com/Defalt8/axl) -- A minimalist C++ library designed primarily game engines. 
 - [glfl](https://github.com/Defalt8/glfl) -- A super fast and lightweight OpenGL function loader in pure C++.
-- [G2](https://github.com/Defalt8/g2) -- A new 2D game engine using OpenGL.
+- [G2](https://github.com/Defalt8/g2) -- A new 2D game engine using OpenGL. Migrating code from previous game engine code (axl.ge).
 
 ## About me
 
